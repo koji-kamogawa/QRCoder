@@ -5,7 +5,7 @@ from PIL import Image
 import io
 
 # --- アプリ設定 ---
-st.set_page_config(page_title="QRコード生成アプリ", layout="centered")
+st.set_page_config(page_title="QRコード生成アプリ(Rev2)", layout="centered")
 
 # --- サイドバー: QRコード設定 ---
 st.sidebar.header("QRコード設定")
